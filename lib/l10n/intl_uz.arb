@@ -1,0 +1,7 @@
+{
+  "login": "Kirish",
+  "loginWithBiometrics": "Biometriya bilan kirish",
+  "username": "Foydalanuvchi nomi",
+  "password": "Parol",
+  "welcomeMessage": "ServicePro"
+}

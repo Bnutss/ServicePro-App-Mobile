@@ -1,0 +1,7 @@
+{
+  "login": "Войти",
+  "loginWithBiometrics": "Войти с биометрией",
+  "username": "Логин",
+  "password": "Пароль",
+  "welcomeMessage": "ServicePro"
+}
